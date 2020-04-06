@@ -1,6 +1,6 @@
 /* Un commentaire */
 body{background-color: #DDD;margin:auto;width:1000px;}
-p{font-variant: small-caps;}
+p{font-family:cursive;}
 article#Infos{background-color: #FFFFFF;border:1px solid #000000;border-radius:8px;padding:10px;}
 span.text-red{color:red;}
 table{border-collapse:collapse;}
