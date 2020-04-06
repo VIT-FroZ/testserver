@@ -1,0 +1,12 @@
+/* Un commentaire */
+body{background-color: #DDD;margin:auto;width:1000px;}
+p{font-family:cursive;}
+article#Infos{background-color: #FFFFFF;border:1px solid #000000;border-radius:8px;padding:10px;}
+span.text-red{color:red;}
+table{border-collapse:collapse;}
+th,td
+{border:1px solid #FF2D00;padding:10px;}
+header,footer{margin:auto;}
+p#pied{text-align:right;}
+#le_bouton
+{position:fixed;right:10px;bottom:10px;background-color:transparent;width:60px;height:83px;border:0px;}
